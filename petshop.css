@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+}
+button{
+    background-color: rgb(226, 131, 43);
+    color: rgba(255, 255, 255, 0.966);
+    border: none;
+    border-radius: 5px;
+}
+ul{
+    list-style-type: none;
+   margin: 0; 
+   padding: 0;
+   background-color: blue;
+}
+li a{
+    display: inline;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    width: 60px;
+}
+h1{
+    color: rgba(255, 255, 0, 0.856);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-style: italic;
+}
